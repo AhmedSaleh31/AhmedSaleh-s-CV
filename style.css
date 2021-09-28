@@ -1,0 +1,168 @@
+/*..................................tag style.........................................*/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #316B83;
+}
+
+h2 {
+  color: #334756;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 25%;
+  border-color: grey;
+  border-width: 10px;
+}
+
+/*..................................class style.......................................*/
+.my_name{
+  margin-bottom: 50px;
+  margin-top: 50px;
+  font-size: 70px;
+  font-family: 'Sacramento', cursive;
+  color: #334756;}
+.my_name1 {
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-size: 70px;
+  font-family: 'Sacramento', cursive;
+  color: #334756;
+}
+.computer-engineer{
+margin-top: 2px;
+}
+
+.icon{
+   margin-bottom: 40px;
+}
+
+.computer-engineer {
+  font-weight: normal;
+  line-height: 2;
+}
+
+.top {
+  /*border-style: dashed solid;
+border-color: #FF7777;*/
+  background-color: #E8F6EF;
+  padding-top: 100px;
+  background-image: url();
+  /*background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  margin-bottom: 20px;*/
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.fbird {
+  width: 70px;
+  position: absolute;
+  top: 50px;
+  right: 480px;
+}
+
+.sbird {
+  width: 70px;
+  position: absolute;
+  right: 80px;
+  top: 150px;
+}
+
+.tbird {
+  width: 70px;
+  position: absolute;
+  top: 100px;
+  left: 80px;
+}
+
+.xbird {
+  width: 70px;
+  position: absolute;
+  top: 150px;
+  left: 500px;
+}
+
+.high {
+  width: 50%;
+  margin:100px auto 100px auto;
+}
+.para-high{
+  text-align: left;
+   margin:20px auto 10px 230px;
+}
+.profile {
+  width: 50%;
+  margin:100px auto 100px auto;
+}
+
+.EDUCATION {
+  width: 50%;
+  margin:100px auto 100px auto;
+
+}
+.EDUCATION1{
+   text-align: left;
+   margin:20px auto 10px 200px;
+}
+
+.lang {
+  width: 50%;
+  margin:100px auto 100px auto;
+}
+
+.computer {
+  width: 50%;
+  margin:100px auto 100px auto;
+}
+.computer1{
+  text-align: left;
+  margin:20px auto 10px 260px;
+}
+
+.COURSES {
+  width: 50%;
+  margin:100px auto 100px auto;
+}
+.COURSES1{
+  text-align: left;
+  margin:20px auto 10px 200px;
+}
+.activties {
+  width: 50%;
+  margin:100px auto 100px auto;
+}
+.activties1{
+  text-align: left;
+  margin:20px auto 10px 220px;
+}
+
+.phone {
+  color: #9b9b9b;
+  text-decoration: underline;
+}
+
+.bottom-container {
+  background-color: #E8F6EF;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+.contact-me {
+  background-color: #E8F6EF;
+padding-top: 20px;
+}
